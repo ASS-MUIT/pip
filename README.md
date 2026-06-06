@@ -1,7 +1,7 @@
 Instrucciones para realizar un PIP
 ===================================
 
-Los pasos están indicados en [ https://is.docs.wso2.com/en/latest/develop/writing-a-custom-policy-info-point/ ](https://is.docs.wso2.com/en/6.0.0/references/extend/access-control/write-a-custom-policy-info-point/)
+Los pasos están indicados en [ el siguiente enlace ](https://is.docs.wso2.com/en/6.0.0/references/extend/access-control/write-a-custom-policy-info-point/)
 
 * Editar la clase que extienda `AbstractPIPAttributeFinder` (en este caso `EnvironmentAttributeFinder`)
 * Crear el .jar ejecutando `mvn clean install`
